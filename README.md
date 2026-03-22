@@ -1,10 +1,4 @@
-📝 COMANDO COMPLETO PARA CRIAR O README:
-
-Copie este bloco TODINHO e cole no Termux:
-
-```bash
-cat > README.md << 'EOF'
-# 🔺 Projeto Triângulo
+# 🔺 Projeto Triângulo 
 
 ## 📌 Sobre o Projeto
 
