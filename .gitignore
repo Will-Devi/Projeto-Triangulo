@@ -1,0 +1,16 @@
+# Arquivos compilados Java
+*.class
+
+# Pastas de compilação
+bin/
+build/
+target/
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
